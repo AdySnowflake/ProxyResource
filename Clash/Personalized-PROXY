@@ -1,0 +1,36 @@
+#自定义规则
+#Cloudflare
+- DOMAIN-SUFFIX,challenges.cloudflare.com,🚀 节点选择
+#Google Gemini
+- DOMAIN,generativelanguage.googleapis.com,🌐💬 AI-assistant
+#WebDAV
+- DOMAIN-SUFFIX,jike.teracloud.jp,🚀 节点选择
+- DOMAIN-SUFFIX,app.koofr.net,🚀 节点选择
+#Project Sekai 世界计划
+- DOMAIN-SUFFIX,sekai.colorfulpalette.org,🚀 节点选择
+- DOMAIN,com.sega.pjsekai,🚀 节点选择
+- DOMAIN,app.adjust.com,🚀 节点选择
+- DOMAIN-SUFFIX,cloud.unity3d.com,🚀 节点选择
+#哔咔
+- DOMAIN-SUFFIX,picacomic.com,🚀 节点选择
+#禁漫
+- DOMAIN-SUFFIX,18comic.vip,🚀 节点选择
+- DOMAIN-KEYWORD,jmapinode,🚀 节点选择
+- DOMAIN-SUFFIX,jmcomic.me,🚀 节点选择
+- DOMAIN-KEYWORD,jmapiproxy,🚀 节点选择
+- DOMAIN-KEYWORD,jmapibranch,🚀 节点选择
+- DOMAIN-KEYWORD,jm-comic,🚀 节点选择
+- DOMAIN-SUFFIX,18comic-cn.vip,🚀 节点选择
+- DOMAIN-KEYWORD,jmapp,🚀 节点选择
+#E-Hentai
+- DOMAIN-SUFFIX,e-hentai.org,🚀 节点选择
+- DOMAIN-SUFFIX,exhentai.org,🚀 节点选择
+- DOMAIN-SUFFIX,ehgt.org,🚀 节点选择
+#kox.moe漫画
+- DOMAIN,mox.moe,🚀 节点选择
+- DOMAIN-SUFFIX,mxomo.com,🚀 节点选择
+#其他
+- DOMAIN-SUFFIX,okx.com,🚀 节点选择
+- DOMAIN-SUFFIX,zhiyin.bid,🚀 节点选择
+- DOMAIN-SUFFIX,iwara.tv,🚀 节点选择
+- DOMAIN-SUFFIX,steamdb.info,🚀 节点选择
