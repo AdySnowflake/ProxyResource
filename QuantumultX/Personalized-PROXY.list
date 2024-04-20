@@ -1,6 +1,8 @@
 #自定义规则
 #Cloudflare
 host-suffix, challenges.cloudflare.com, 🚀 节点选择
+host, static.cloudflareinsights.com, 🚀 节点选择
+host, cloudflareinsights.com, 🚀 节点选择
 #Google Gemini
 host, generativelanguage.googleapis.com, 🌐💬 AI-assistant
 #WebDAV
@@ -32,6 +34,11 @@ host, kox.moe, 🚀 节点选择
 host, vol.moe, 🚀 节点选择
 host, mox.moe, 🚀 节点选择
 host-suffix, mxomo.com, 🚀 节点选择
+#笔记APP
+host-suffix, goodnotes.com, 🚀 节点选择
+host-suffix, goodnotescloud.com, 🚀 节点选择
+host-suffix, goodnotes.email, 🚀 节点选择
+host-suffix, notability.com, 🚀 节点选择
 #其他
 host-suffix, okx.com, 🚀 节点选择
 host-suffix, zhiyin.bid, 🚀 节点选择
