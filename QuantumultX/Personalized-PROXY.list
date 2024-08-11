@@ -1,46 +1,63 @@
-#自定义规则
+#自定义规则-代理
 #Cloudflare
 host-suffix, challenges.cloudflare.com, 🚀 节点选择
 host, static.cloudflareinsights.com, 🚀 节点选择
 host, cloudflareinsights.com, 🚀 节点选择
+
 #Google Gemini
 host, generativelanguage.googleapis.com, 🌐💬 AI-assistant
+
 #WebDAV
 host-suffix, jike.teracloud.jp, 🚀 节点选择
 host, app.koofr.net, 🚀 节点选择
+
+#Emby
+host-suffix, embyplus.org, 🚀 节点选择
+host, emby.pilipiliultra.top, 🚀 节点选择
+
 #世界计划 Project Sekai
 host-suffix, sekai.colorfulpalette.org, 🚀 节点选择
 host, com.sega.pjsekai, 🚀 节点选择
 host, app.adjust.com, 🚀 节点选择
 host-suffix, cloud.unity3d.com, 🚀 节点选择
 #host, app-measurement.com, 🚀 节点选择
+
 #哔咔
 host-suffix, picacomic.com, 🚀 节点选择
+
 #禁漫
 host-suffix, 18comic.vip, 🚀 节点选择
-host-keyword, jmapinode, 🚀 节点选择
 host-suffix, jmcomic.me, 🚀 节点选择
+host-keyword, jmapinode, 🚀 节点选择
 host-keyword, jmapiproxy, 🚀 节点选择
 host-keyword, jmapibranch, 🚀 节点选择
 host-keyword, jm-comic, 🚀 节点选择
 host-keyword, 18comic-cn.vip, 🚀 节点选择
+host, www.jmfreedomproxy.one, 🚀 节点选择
 host-keyword, jmapp, 🚀 节点选择
+
 #E-Hentai
 host-suffix, e-hentai.org, 🚀 节点选择
 host-suffix, exhentai.org, 🚀 节点选择
 host-suffix, ehgt.org, 🚀 节点选择
+
+#DLsite
+host-suffix, dislte.com, 🚀 节点选择
+host-suffix, dislte.jp, 🚀 节点选择
+
 #kox.moe漫画
 host, kox.moe, 🚀 节点选择
 host, vol.moe, 🚀 节点选择
 host, mox.moe, 🚀 节点选择
 host-suffix, mxomo.com, 🚀 节点选择
+
 #笔记APP
 host-suffix, goodnotes.com, 🚀 节点选择
 host-suffix, goodnotescloud.com, 🚀 节点选择
 host-suffix, goodnotes.email, 🚀 节点选择
 host-suffix, notability.com, 🚀 节点选择
+
 #其他
 host-suffix, okx.com, 🚀 节点选择
-host-suffix, zhiyin.bid, 🚀 节点选择
 host-suffix, iwara.tv, 🚀 节点选择
 host-suffix, steamdb.info, 🚀 节点选择
