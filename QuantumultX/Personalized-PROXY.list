@@ -24,17 +24,18 @@ host-suffix, cloud.unity3d.com, 🚀 节点选择
 
 #哔咔
 host-suffix, picacomic.com, 🚀 节点选择
+host-suffix, picacomic.fregata, 🚀 节点选择
 
 #禁漫
 host-suffix, 18comic.vip, 🚀 节点选择
 host-suffix, jmcomic.me, 🚀 节点选择
-host-keyword, jmapinode, 🚀 节点选择
-host-keyword, jmapiproxy, 🚀 节点选择
-host-keyword, jmapibranch, 🚀 节点选择
-host-keyword, jm-comic, 🚀 节点选择
 host-keyword, 18comic-cn.vip, 🚀 节点选择
-host, www.jmfreedomproxy.one, 🚀 节点选择
-host-keyword, jmapp, 🚀 节点选择
+host-keyword, jmapinodeudzn, 🚀 节点选择
+host-keyword, jmapiproxy, 🚀 节点选择
+host, www.cdn-eldenringproxy.xyz, 🚀 节点选择
+host, www.jmfreedomproxy.xyz, 🚀 节点选择
+host, www.jmapidestiny.xyz, 🚀 节点选择
+host, www.jmeadpoolcdn.xyz, 🚀 节点选择
 
 #E-Hentai
 host-suffix, e-hentai.org, 🚀 节点选择
