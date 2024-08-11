@@ -19,17 +19,18 @@ payload:
   
   #哔咔
   - DOMAIN-SUFFIX,picacomic.com
+  - DOMAIN-SUFFIX,picacomic.fregata
   
   #禁漫
   - DOMAIN-SUFFIX,18comic.vip
   - DOMAIN-SUFFIX,jmcomic.me
-  - DOMAIN-KEYWORD,jmapinode
-  - DOMAIN-KEYWORD,jmapiproxy
-  - DOMAIN-KEYWORD,jmapibranch
-  - DOMAIN-KEYWORD,jm-comic
   - DOMAIN-SUFFIX,18comic-cn.vip
-  - DOMAIN,www.jmfreedomproxy.one
-  - DOMAIN-KEYWORD,jmapp
+  - DOMAIN-KEYWORD,jmapinodeudzn
+  - DOMAIN-KEYWORD,jmapiproxy
+  - DOMAIN,www.cdn-eldenringproxy.xyz
+  - DOMAIN,www.jmfreedomproxy.xyz
+  - DOMAIN,www.jmapidestiny.xyz
+  - DOMAIN,www.jmeadpoolcdn.xyz
   
   #E-Hentai
   - DOMAIN-SUFFIX,e-hentai.org
