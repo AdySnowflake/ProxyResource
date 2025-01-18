@@ -9,7 +9,8 @@ payload:
   
   #Emby
   - DOMAIN-SUFFIX,embyplus.org
-  - DOMAIN,emby.pilipiliultra.top
+  - DOMAIN,pilipili.club
+  - DOMAIN-SUFFIX,mius.uk
   
   #Project Sekai 世界计划
   - DOMAIN-SUFFIX,sekai.colorfulpalette.org
