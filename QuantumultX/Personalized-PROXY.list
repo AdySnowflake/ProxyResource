@@ -13,7 +13,8 @@ host, app.koofr.net, 🚀 节点选择
 
 #Emby
 host-suffix, embyplus.org, 🚀 节点选择
-host, emby.pilipiliultra.top, 🚀 节点选择
+host, pilipili.club, 🚀 节点选择
+host-suffix, mius.uk, 🚀 节点选择
 
 #世界计划 Project Sekai
 host-suffix, sekai.colorfulpalette.org, 🚀 节点选择
@@ -36,6 +37,7 @@ host, www.cdn-eldenringproxy.xyz, 🚀 节点选择
 host, www.jmfreedomproxy.xyz, 🚀 节点选择
 host, www.jmapidestiny.xyz, 🚀 节点选择
 host, www.jmeadpoolcdn.xyz, 🚀 节点选择
+host, www.cdnmhws.cc, 🚀 节点选择
 
 #E-Hentai
 host-suffix, e-hentai.org, 🚀 节点选择
