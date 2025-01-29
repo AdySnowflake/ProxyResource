@@ -2,7 +2,7 @@
 #SRC-PORT,
 #PROTOCOL,UDP
 #AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DST-PORT,7100),(NETWORK,UDP))
-AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DEST-PORT,7100),(PROTOCOL,UDP))
+#AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DEST-PORT,7100),(PROTOCOL,UDP))
 #AND,((DOMAIN-SUFFIX,google.com),(NETWORK,TCP))
 
 #PROCESS-NAME,com.sega.pjsekai
