@@ -38,7 +38,9 @@ jobs:
 
       - run: echo "🎉 Workflow triggered by ${{ github.event_name }} event."
       - run: echo "🐧 Running on ${{ runner.os }} server."
-      - run: echo "🔎 Repository: ${{ github.repository }} | Branch: ${{ github.ref }}"
+      - run: |
+          echo "🔎 Repository: ${{ github.repository }}"
+          echo "📂 Branch: ${{ github.ref }}"
 
       - name: 🔄 Sync rule-list file to loon
         run: |
@@ -50,9 +52,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          git add rule/loon/list
+          git add Rule/Loon/My-Proxy.list
           git commit -m "🔄 Auto-sync list file [bot]" || exit 0  # 如果没有改动就跳过提交
           git push
           echo "✅ Changes pushed successfully!"
 
-      - run: echo "🍏 Workflow execution completed with status: ${{ job.status }}."
