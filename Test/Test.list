@@ -1,6 +1,6 @@
 #DOMAIN-SUFFIX,
 #SRC-PORT,
 #PROTOCOL,UDP
-#AND,((DOMAIN-SUFFIX,axample),(SRC-PORT,443),(PROTOCOL,UDP))
+AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(SRC-PORT,7100),(NETWORK,UDP))
 
-PROCESS-NAME,com.sega.pjsekai
+#PROCESS-NAME,com.sega.pjsekai
