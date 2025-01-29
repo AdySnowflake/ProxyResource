@@ -1,3 +1,2 @@
-# Rule-Providers
-Rule Providers for Clash, Quantumult X  
+# Proxy Resource
 Only for my own use
