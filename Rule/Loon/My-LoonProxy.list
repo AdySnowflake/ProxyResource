@@ -1,0 +1,3 @@
+#自定义规则-代理-Loon
+#Project Sekai 世界计划
+AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DEST-PORT,7100),(PROTOCOL,UDP))
