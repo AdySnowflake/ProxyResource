@@ -55,7 +55,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           git add Rule/Loon/My-Proxy.list
-          git commit -m "🔄 Auto-sync list file [bot]" || exit 0  # 如果没有改动就跳过提交
+          git commit -m "🔄 Auto-sync rule-list file from Clash [bot]" || exit 0  # 如果没有改动就跳过提交
           git push
           echo "✅ Changes pushed successfully!"
 
