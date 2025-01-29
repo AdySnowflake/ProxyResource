@@ -4,9 +4,6 @@ host-suffix, challenges.cloudflare.com, 🚀 节点选择
 host, static.cloudflareinsights.com, 🚀 节点选择
 host, cloudflareinsights.com, 🚀 节点选择
 
-#Google Gemini
-host, generativelanguage.googleapis.com, 🌐💬 AI-assistant
-
 #WebDAV
 host-suffix, jike.teracloud.jp, 🚀 节点选择
 host, app.koofr.net, 🚀 节点选择
@@ -22,7 +19,6 @@ host-suffix, sekai.colorfulpalette.org, 🚀 节点选择
 host, com.sega.pjsekai, 🚀 节点选择
 host, app.adjust.com, 🚀 节点选择
 host-suffix, cloud.unity3d.com, 🚀 节点选择
-#host, app-measurement.com, 🚀 节点选择
 
 #哔咔
 host-suffix, picacomic.com, 🚀 节点选择
