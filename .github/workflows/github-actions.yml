@@ -31,6 +31,8 @@ on:
 jobs:
   sync-list:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # 赋予 GITHUB_TOKEN 推送权限
 
     steps:
       - name: 📂 Check out repository code
