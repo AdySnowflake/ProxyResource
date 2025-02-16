@@ -21,31 +21,3 @@ DOMAIN,mssdk5-normal-lq.zijieapi.com
 DOMAIN,dig.bdurl.net
 
 DOMAIN,i.snssdk.com
-
-# DOMAIN-SUFFIX,byteimg.com,DIRECT
-
-# DOMAIN-SUFFIX,zijieapi.com
-
-# DOMAIN,polaris-sinfonlinea.zijieapi.com #可能
-# DOMAIN,feedback-c.zijieapi.com #可能
-# DOMAIN,abtest3-misc-lq.zijieapi.com #可能
-# DOMAIN,tnc0-aliec2.zijieapi.com #可能
-# DOMAIN,sf3-fe-tos.pglstatp-toutiao.com #可能
-# DOMAIN,i-lq.snssdk.com #可能
-# DOMAIN,is.snssdk.com #可能
-# DOMAIN,pitaya.bytedance.com #可能
-# DOMAIN,www.bytedance.com #可能
-# DOMAIN,tnc3-alisc1.bytedance.com #可能
-# DOMAIN,tnc0-aliec2.zijieapi.com #可能
-# DOMAIN,p6-fanqieaudiopic.byteimg.com #可能
-
-
-
-# DOMAIN,msync-im1-vip6-std.easemob.com
-# DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
-# DOMAIN,api.iegadp.qq.com
-# DOMAIN,sf3-ttcdn-tos.pstatp.com
-# DOMAIN-SUFFIX,pglstatp-toutiao.com
-# DOMAIN-SUFFIX,byteorge.com
-# DOMAIN-SUFFIX,bytegoofy.com
-# DOMAIN-SUFFIX,bytedance.com
