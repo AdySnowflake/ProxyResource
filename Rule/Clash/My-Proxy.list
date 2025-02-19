@@ -1,6 +1,9 @@
 #自定义规则-代理
 #Cloudflare
 DOMAIN-SUFFIX,challenges.cloudflare.com
+
+#xAI
+DOMAIN-SUFFIX,x.ai
   
 #WebDAV
 DOMAIN-SUFFIX,jike.teracloud.jp
@@ -13,7 +16,7 @@ DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,mius.uk
 DOMAIN-SUFFIX,auroramedia.vip
   
-#Project Sekai 世界计划
+#Project Sekai
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
 DOMAIN,com.sega.pjsekai
   
@@ -52,3 +55,4 @@ DOMAIN-SUFFIX,mxomo.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,iwara.tv
 DOMAIN-SUFFIX,steamdb.info
+DOMAIN,featureassets.org
