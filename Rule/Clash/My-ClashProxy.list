@@ -1,4 +1,4 @@
 #自定义规则-代理-Clash
-#Project Sekai 世界计划
+#Project Sekai
 AND,((DOMAIN-SUFFIX,bc.googleusercontent.com),(DST-PORT,7100),(NETWORK,UDP))
 PROCESS-NAME,com.sega.pjsekai
