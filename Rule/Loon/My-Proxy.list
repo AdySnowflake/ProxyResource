@@ -11,10 +11,14 @@ DOMAIN-SUFFIX,app.koofr.net
   
 #Emby
 DOMAIN-SUFFIX,embyplus.org
-DOMAIN,pilipili.club
+DOMAIN,emby-direct.pilipili.com
+DOMAIN,streamer.pilipiliultra.com
 DOMAIN-SUFFIX,pilipiliultra.com
 DOMAIN-SUFFIX,auroramedia.vip
 DOMAIN-SUFFIX,global-endpoint.anisaga.tv
+DOMAIN,media.nijigem.by
+DOMAIN,misty.cx
+
   
 #Project Sekai
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
