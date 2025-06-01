@@ -1,2 +1,3 @@
-#bilibili IP归属地 Part1-直连
+#自定义规则-直连
+#bilibili IP归属地 Part1
 DOMAIN-SUFFIX,bilivideo.com
