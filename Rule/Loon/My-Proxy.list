@@ -35,10 +35,12 @@ DOMAIN-SUFFIX,18comic-cn.vip
 DOMAIN-KEYWORD,jmapinodeudzn
 DOMAIN-KEYWORD,jmapiproxy
 DOMAIN,www.cdn-eldenringproxy.xyz
-DOMAIN,www.jmfreedomproxy.xyz
-DOMAIN,www.jmapidestiny.xyz
+DOMAIN-KEYWORD,jmfreedomproxy
+DOMAIN-KEYWORD,jmapidestiny
 DOMAIN,www.jmeadpoolcdn.xyz
 DOMAIN,www.cdnmhws.cc
+DOMAIN,www.jmapinode.me
+DOMAIN-KEYWORD,jmapp
   
 #E-Hentai
 DOMAIN-SUFFIX,e-hentai.org
