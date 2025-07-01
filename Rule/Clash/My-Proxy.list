@@ -19,7 +19,11 @@ DOMAIN-SUFFIX,global-endpoint.anisaga.tv
 DOMAIN,media.nijigem.by
 DOMAIN,misty.cx
 
-  
+#Fallback Global DNS Server
+DOMAIN,dns.google
+DOMAIN,cloudflare-dns.com
+IP-CIDR,8.8.4.4/32,no-resolve
+
 #Project Sekai
 DOMAIN-SUFFIX,sekai.colorfulpalette.org
 DOMAIN,com.sega.pjsekai
