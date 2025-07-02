@@ -1,3 +1,6 @@
 #自定义规则-直连
 #bilibili IP归属地 Part1
 DOMAIN-SUFFIX,bilivideo.com
+
+# 广告误杀
+DOMAIN,h5.vivo.com.cn
