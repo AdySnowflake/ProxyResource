@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,bilivideo.com
 
 # 广告误杀
 DOMAIN,h5.vivo.com.cn
+
+# ToDesk
+DOMAIN,st.todesk.com
